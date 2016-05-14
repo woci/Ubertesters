@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "Ubertesters"
+  s.name             = "UbertestersCV”
   s.version          = "2.0.4"
   s.summary          = "v 2.0.4 April.18.2016"
 
